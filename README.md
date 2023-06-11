@@ -4,7 +4,7 @@
 ### Boaz base mini project - Korean text summarization
 
 
-2023.05.19 ~
+2023.05.19 ~ 2023.06.08
 
 ### 개요
 - 가끔 핸드폰을 못 봐서 카카오톡이 쌓여있어서 어떤 대화가 있었는지 불편할 때가 있음
